@@ -39,11 +39,10 @@ To use the Book List application, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/book-list.git
+   git clone https://github.com/TudorFernea/Book-list/tree/master
 
 2. Navigate to the project directory:
-    cd book-list
-
+    
 3. Open the index.html file
 
 4. Start adding your favorite books to the list! You can provide the book title, author, website link, mark books as read, and rate them.
